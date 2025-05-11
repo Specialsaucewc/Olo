@@ -1,0 +1,22 @@
+﻿  compilation header save succeeded; see C:\Projects\Olo\gradientPS.hlsl.h
+  compilation object save succeeded; see C:\Projects\Olo\bin\x64\Debug\gradientPS.cso
+  compilation header save succeeded; see C:\Projects\Olo\gradientVS.hlsl.h
+  compilation object save succeeded; see C:\Projects\Olo\bin\x64\Debug\gradientVS.cso
+  compilation header save succeeded; see C:\Projects\Olo\presentPS.hlsl.h
+  compilation object save succeeded; see C:\Projects\Olo\bin\x64\Debug\presentPS.cso
+  compilation header save succeeded; see C:\Projects\Olo\presentVS.hlsl.h
+  compilation object save succeeded; see C:\Projects\Olo\bin\x64\Debug\presentVS.cso
+  compilation header save succeeded; see C:\Projects\Olo\palettePS.hlsl.h
+  compilation object save succeeded; see C:\Projects\Olo\bin\x64\Debug\palettePS.cso
+  compilation header save succeeded; see C:\Projects\Olo\paletteVS.hlsl.h
+  compilation object save succeeded; see C:\Projects\Olo\bin\x64\Debug\paletteVS.cso
+  compilation header save succeeded; see C:\Projects\Olo\RedPS.hlsl.h
+  compilation object save succeeded; see C:\Projects\Olo\bin\x64\Debug\RedPS.cso
+  stdafx.cpp
+  D3D12HDR.cpp
+  DXSample.cpp
+  Main.cpp
+  Win32Application.cpp
+  UILayer.cpp
+  Generating Code...
+  D3D12HDR.vcxproj -> C:\Projects\Olo\bin\x64\Debug\D3D12HDR.exe

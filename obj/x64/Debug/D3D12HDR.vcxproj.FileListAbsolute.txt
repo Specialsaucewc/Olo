@@ -1,0 +1,3 @@
+C:\Projects\DirectX-Graphics-Samples\Samples\Desktop\D3D12HDR\src\bin\x64\Debug\WinPixEventRuntime.dll
+C:\Projects\Olo\src\bin\x64\Debug\WinPixEventRuntime.dll
+C:\Projects\Olo\bin\x64\Debug\WinPixEventRuntime.dll
